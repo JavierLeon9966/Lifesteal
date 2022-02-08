@@ -7,7 +7,7 @@ namespace JavierLeon9966\Lifesteal;
 use pocketmine\event\entity\EntityDamageByEntityEvent;
 use pocketmine\event\Listener;
 use pocketmine\event\player\PlayerDeathEvent;
-use pocletmine\player\Player;
+use pocketmine\player\Player;
 use pocketmine\plugin\PluginBase;
 
 final class Main extends PluginBase implements Listener{
